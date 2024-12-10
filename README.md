@@ -49,7 +49,7 @@ Evalution of each algorithm includes:
 
 
 Random Forest had the best performance so was this algorithm was selected. Hyperparameter tuning using Optuna evaluated on held-out test set.
-
+![final model](https://github.com/mjdoom16/COF_Database_Project/blob/main/final_model_prediction.png)
 
 To make predictions, a property algorithm was developed using tools from scikit-learn and xgboost.
 
