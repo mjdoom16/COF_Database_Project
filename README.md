@@ -52,7 +52,15 @@ Random Forest had the best performance so was this algorithm was selected. Hyper
 
 ![final model](https://github.com/mjdoom16/COF_Database_Project/blob/main/final_model_prediction.png)
 
+## Future Work
 
+- Do a more in-depth search with classification:
+  - multi-nomial classification of qualitative values
+    - bond_type (<code>K</code>=5)
+    - parent network (<code>K</code>=309)
+  - evaluation of 2D and 3D COF
+  - unsupervised learning
+    - clustering
 
 ### Objective
 - Curate large dataset
