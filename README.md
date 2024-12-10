@@ -45,13 +45,13 @@ Evalution of each algorithm includes:
   - root_mean_square_error
 - Plots
   - Learning Curves (scoring = RMSE)
-  - Regression Predictions of simulated data and predicted data
+  - Prediction plots of simulated data and predicted data
 
 
 Random Forest had the best performance so was this algorithm was selected. Hyperparameter tuning using Optuna evaluated on held-out test set.
+
 ![final model](https://github.com/mjdoom16/COF_Database_Project/blob/main/final_model_prediction.png)
 
-To make predictions, a property algorithm was developed using tools from scikit-learn and xgboost.
 
 
 ### Objective
